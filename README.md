@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![ozturq](https://circleci.com/gh/ozturq/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://app.circleci.com/pipelines/github/ozturq/Operationalize-a-Machine-Learning-Microservice-API)
 
 ## Project Overview
 
