@@ -1,0 +1,8 @@
+admT39934@TOFNB05588 MINGW64 /c/Users/t39934/Desktop/GIT/DevOps_Microservices/project-ml-microservice-kubernetes (master)
+$ ./run_kubernetes.sh
+kubectl run --generator=deployment/apps.v1 is DEPRECATED and will be removed in a future version. Use kubectl run --generator=run-pod/v1 or kubectl create instead.
+Error from server (AlreadyExists): deployments.apps "ozturqmlapi" already exists
+NAME                          READY   STATUS    RESTARTS   AGE
+ozturq-6995bbcdfc-v6cs8       1/1     Running   0          7m30s
+ozturqmlapi-5f9db88fc-79tnt   1/1     Running   0          18m
+service/ozturqmlapi exposed
